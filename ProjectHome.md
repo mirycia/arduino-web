@@ -1,0 +1,1 @@
+This project is for the Arduino Web Development team to gather all the feature requests as well as bugs to be fixed within the Arduino Web Community. Here we will report about code dealing with the wiki, the forums, the blog, and future services provided by arduino.cc
